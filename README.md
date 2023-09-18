@@ -1,3 +1,3 @@
 # authentication-system
-**Skills**
+**Skills:**
 Node.js, Express.js, MongoDB, Bootstrap, Basic EJS
